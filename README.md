@@ -4,5 +4,5 @@
 
 ###-Lista de caracteristicas
 
--Caracteristica 1
--Caracteristica 2
+-Caracteristica 1;
+-Caracteristica 2;
